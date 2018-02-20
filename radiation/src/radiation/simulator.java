@@ -16,7 +16,7 @@ public final class simulator {
   static private double prevtime = 1; // previous time where outside radiation was decreased
 
   static private final ST<String, Double> halvingThicknesses = new ST<String, Double>();
-
+ 
   /***
    * sets up the symbol table to have halving distance values.
    */
